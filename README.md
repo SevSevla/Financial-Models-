@@ -3,7 +3,7 @@
 A professional-grade, assumption-driven financial model built in Excel to value Shopify Inc. (SHOP). This model includes a full operational forecast, sensitivity-driven inputs, valuation outputs, and a clean dashboard designed for presentation and decision support.
 
 ---
-<img width="1769" height="686" alt="image" src="https://github.com/user-attachments/assets/86fecb84-1812-4e05-8331-b2fddf2a6a50" />
+<img width="1768" height="689" alt="image" src="https://github.com/user-attachments/assets/03f354b9-f9c0-4c86-a8ba-bfb7139d953d" />
 
 ## 🔍 Project Overview
 
