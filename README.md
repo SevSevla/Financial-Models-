@@ -1,47 +1,77 @@
-# 📊 Finance Portfolio
+# 📊 Shopify Financial Model (Case Study)
 
-Welcome to my Finance Portfolio — a collection of projects that showcase my experience and skills across financial modeling, valuation, FP&A, and data analysis. Each project is built to reflect real-world business problems, combining financial expertise with data-driven decision-making.
+A professional-grade, assumption-driven financial model built in Excel to value Shopify Inc. (SHOP). This model includes a full operational forecast, sensitivity-driven inputs, valuation outputs, and a clean dashboard designed for presentation and decision support.
 
-## 🧠 What’s Inside
+---
 
-- **Financial Models**  
-  DCF, 3-statement, and scenario-based models for real estate, tech, and other asset-heavy businesses.
+## 🔍 Project Overview
 
-- **FP&A Tools**
-  Budgeting templates, cash flow forecasts, variance analysis dashboards, and CapEx planning frameworks.
+This model is designed to evaluate Shopify’s financial performance and implied equity value under multiple scenarios. It includes full integration of revenue growth drivers, cost structure, capital expenditures, and macroeconomic assumptions.
 
-- **Valuation Projects**  
-  Equity valuation using public comps, precedent transactions, and discounted cash flow methods.
+**Built for:**  
+- Financial modeling case studies  
+- Investment analysis practice  
+- Equity research modeling  
+- FP&A forecasting exercises  
 
-- **Data Analytics (SQL/Power BI)**  
-  Analytical scripts and dashboards for revenue analysis, KPI tracking, and business performance reviews.
+---
 
+## 🧱 File Structure
 
-## 🛠️ Tools & Skills Used
+| Sheet         | Description                                                                 |
+|---------------|-----------------------------------------------------------------------------|
+| `Cover Page`  | Title, context, and branding for the case study                            |
+| `Dashboard`   | Company overview, valuation summary, price charts, recommendation snapshot |
+| `Inputs`      | Key forecast assumptions (2025–2029 + terminal), editable by scenario       |
+| `Model`       | Forecast engine, dynamically linked to Inputs and FCF output                |
+| `Outputs`     | Summary valuation outputs, share price estimates, and DCF results           |
+| `FCF (EPS)`   | Free Cash Flow and Earnings Per Share schedules                             |
+| `Share Price` | Implied share price calculations based on model outputs                     |
+| `Consensus`   | Comparison to analyst consensus estimates                                   |
+| `Macro`       | Inflation, interest rate, and macro inputs used across valuation drivers    |
 
-- Excel (advanced formulas, pivot tables, data visualization)
-- SQL (data querying for FP&A and reporting)
-- Power BI (dashboards and reports)
-- Financial concepts: IRR, NPV, WACC, CapEx/OpEx planning
+---
 
-## 📁 Project Structure
+## 📈 Key Features
 
-Each folder contains:
-- A brief README or notes
-- The model or analysis file
-- Supporting data or assumptions
-- Screenshots or visuals (where applicable)
+✅ **Driver-Based Inputs**  
+Forecasts are linked to controllable assumptions (revenue growth, margins, reinvestment rates)
 
-## 💡 Purpose
+✅ **5-Year Forecast + Terminal Value**  
+Covers 2025–2029 with a long-term terminal value assumption for valuation
 
-This portfolio is meant to:
-- Demonstrate financial problem-solving skills
-- Serve as a toolkit for real-life finance challenges
-- Show my progression from core accounting to strategic FP&A and modeling
+✅ **Valuation Dashboard**  
+Outputs average implied value per share and summary metrics for quick insights
+
+✅ **Scenario Flexibility**  
+Change inputs to simulate base, bull, or bear cases
+
+✅ **Professional Formatting**  
+Designed with formatting best practices: grouping, traceable logic, and print-ready dashboards
+
+---
+
+## 📂 Usage Instructions
+
+1. Open the Excel file (`Shopify Model Final.xlsx`)
+2. Go to the `Inputs` sheet and update your assumptions
+3. Review results in the `Dashboard`, `Outputs`, and `Share Price` sheets
+4. Compare outputs to `Consensus` and adjust macro trends if needed
+
+---
+
+## 🛠 Built With
+
+- Microsoft Excel
+- Dynamic cell references and formulas
+- Structured modeling principles
+- Scenario toggles and visual outputs
+
+---
 
 ## 📬 Contact
 
-Feel free to connect or reach out if you'd like to discuss any of the projects or collaborate.
+Feel free to reach out if you have questions or want to collaborate on more modeling tools.
 
-📧 contact.hugoalves@gmail.com
-🔗 https://www.linkedin.com/in/hugooalves/
+---
+
