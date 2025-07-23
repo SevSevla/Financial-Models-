@@ -7,7 +7,7 @@ Welcome to my Finance Portfolio — a collection of projects that showcase my ex
 - **Financial Models**  
   DCF, 3-statement, and scenario-based models for real estate, tech, and other asset-heavy businesses.
 
-- **FP&A Tools**  
+- **FP&A Tools**
   Budgeting templates, cash flow forecasts, variance analysis dashboards, and CapEx planning frameworks.
 
 - **Valuation Projects**  
